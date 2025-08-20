@@ -1,2 +1,2 @@
 # GitDemo
-Author: Lareb Ahmed
+Author: Lareb
